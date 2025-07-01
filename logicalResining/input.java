@@ -1,3 +1,4 @@
+package logicalResining;
 import java.util.Scanner;
 
 class helloword {
